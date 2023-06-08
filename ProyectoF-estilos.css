@@ -1,0 +1,321 @@
+/*INICIO*/
+
+.navbar-brand img {
+    max-width: 100%;
+    height: auto;
+}
+
+body {
+    background-color: #2e79ba !important;
+    /*!important es para forzar a nuestro código a darle prioridad a esta indicación.*/
+}
+
+.navbar-nav .nav-link {
+    font-size: 18px;
+    /* Ajustamos el tamaño de las letras del menú. */
+}
+
+
+/*Inicio*/
+
+img {
+    width: 100%;
+}
+
+.zona-inicio {
+    background-color: #efeff0;
+}
+
+#encabezado-inicio {
+    color: #2e79ba;
+    text-align: center;
+}
+
+#encabezado2-inicio {
+    color: #4bc8e1;
+    text-align: center;
+}
+
+#logros-texto {
+    color: white;
+    text-align: center;
+}
+
+.logros-div {
+    background-color: #081f37;
+}
+
+.inicio-cuadro {
+    font-size: 200%;
+    color: white;
+    background-color: #fda403;
+    border-radius: 17px;
+}
+
+.inicio-cuadro2 {
+    font-size: 200%;
+    color: white;
+    background-color: #2e79ba;
+    border-radius: 17px;
+}
+
+.inicio-cuadro3 {
+    font-size: 200%;
+    color: white;
+    background-color: #e8751a;
+    border-radius: 17px;
+}
+
+.voluntario-div {
+    background-color: #4bc8e1;
+}
+
+.inicio-voluntario img {
+    border: 5px solid #2e79ba;
+    border-radius: 17px;
+    max-width: 100%;
+}
+
+.inicio-voluntario {
+    color: white;
+    text-align: center;
+}
+
+.inicio-voluntario2 {
+    color: white;
+    text-align: center;
+    padding-top: 15%;
+}
+
+
+/*NOSOTROS*/
+
+#vision-texto {
+    color: white;
+    text-align: center;
+}
+
+.nosotros-div {
+    color: white;
+    text-align: center;
+}
+
+.img-nosotros {
+    border: 7px solid white;
+    border-radius: 10px;
+    max-width: 100%;
+}
+
+.nosotros-cuadro {
+    text-align: justify;
+    font-size: 120%;
+    background-color: #fda403;
+    border-radius: 9px;
+}
+
+.texto-centrado {
+    margin-right: 3%;
+    margin-left: 3%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.opiniones-div {
+    background-color: #efeff0;
+}
+
+#opiniones-texto {
+    color: #2e79ba;
+    text-align: center;
+}
+
+.opiniones-cuadro {
+    font-size: 120%;
+    color: white;
+    background-color: #5f5dbd;
+    border-radius: 17px;
+}
+
+.opiniones-cuadro2 {
+    font-size: 120%;
+    color: white;
+    background-color: #4bc8e1;
+    border-radius: 17px;
+}
+
+.opiniones-cuadro3 {
+    font-size: 120%;
+    color: white;
+    background-color: #ff9c6d;
+    border-radius: 17px;
+}
+
+.texto-centrado2 {
+    margin-right: 4%;
+    margin-left: 4%;
+    padding-top: 2%;
+    padding-bottom: 3%;
+}
+
+.vision-div {
+    background-color: #081f37;
+}
+
+.vision-cuadro {
+    font-size: 120%;
+    color: white;
+    background-color: #4bc8e1;
+    border-radius: 17px;
+}
+
+.vision-cuadro2 {
+    font-size: 120%;
+    color: white;
+    background-color: #2e79ba;
+    border-radius: 17px;
+}
+
+
+/*PRIMARIA Y SECUNDARIA*/
+
+.zona-pys {
+    background-color: #efeff0;
+}
+
+
+/*Cards estilo 1*/
+
+.custom-header {
+    text-align: center;
+    background-color: #007bff;
+    color: #fff;
+}
+
+.custom-body {
+    background-color: #dcefff;
+}
+
+.custom-footer {
+    background-color: #31274b;
+    color: #fff;
+}
+
+.alumno-div {
+    background-color: #081f37;
+}
+
+
+/*Cards estilo 2*/
+
+.custom-header2 {
+    text-align: center;
+    background-color: #fda403;
+    color: #fff;
+}
+
+.custom-body2 {
+    background-color: #ffebc6;
+}
+
+.custom-footer2 {
+    background-color: #b67702;
+    color: #fff;
+}
+
+
+/*Cards estilo 3*/
+
+.custom-header3 {
+    text-align: center;
+    background-color: #e8751a;
+    color: #fff;
+}
+
+.custom-body3 {
+    background-color: #ffc89b;
+}
+
+.custom-footer3 {
+    background-color: #d74f00;
+    color: #fff;
+}
+
+
+/*PREPA Y UNIVERSIDAD*/
+
+
+/*Cards estilo 4*/
+
+.custom-header4 {
+    text-align: center;
+    background-color: #16c499;
+    color: #fff;
+}
+
+.custom-body4 {
+    background-color: #afffc0;
+}
+
+.custom-footer4 {
+    background-color: #084c3b;
+    color: #fff;
+}
+
+
+/*Cards estilo 5*/
+
+.custom-header5 {
+    text-align: center;
+    background-color: #7403fd;
+    color: #fff;
+}
+
+.custom-body5 {
+    background-color: #e5d1ff;
+}
+
+.custom-footer5 {
+    background-color: #463956;
+    color: #fff;
+}
+
+
+/*CONTACTO*/
+
+.tabla-direccion {
+    color: white;
+    text-align: center;
+}
+
+.t-datos {
+    /*Para poder ajustar la tabla y no esté pegada a la pantalla.*/
+    margin-right: 12%;
+    margin-left: 12%;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #ebe9e9;
+    margin: 10px 0;
+}
+
+.formulario {
+    background-color: #081f37;
+    color: white;
+    text-align: center;
+}
+
+.form-container {
+    background-color: #4bc8e1;
+    margin-right: 15%;
+    margin-left: 15%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15px;
+}
+
+.form-datos {
+    /*Para poder ajustar el forms y no esté pegada a la pantalla.*/
+    margin-right: 12%;
+    margin-left: 12%;
+}
